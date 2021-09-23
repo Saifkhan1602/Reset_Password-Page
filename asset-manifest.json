@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Reset_Password-Page/static/css/main.da68b084.chunk.css",
+    "main.css": "/Reset_Password-Page/static/css/main.0f480728.chunk.css",
     "main.js": "/Reset_Password-Page/static/js/main.95a6f2bd.chunk.js",
     "main.js.map": "/Reset_Password-Page/static/js/main.95a6f2bd.chunk.js.map",
     "runtime-main.js": "/Reset_Password-Page/static/js/runtime-main.cd04feef.js",
@@ -8,13 +8,13 @@
     "static/js/2.25e85b86.chunk.js": "/Reset_Password-Page/static/js/2.25e85b86.chunk.js",
     "static/js/2.25e85b86.chunk.js.map": "/Reset_Password-Page/static/js/2.25e85b86.chunk.js.map",
     "index.html": "/Reset_Password-Page/index.html",
-    "static/css/main.da68b084.chunk.css.map": "/Reset_Password-Page/static/css/main.da68b084.chunk.css.map",
+    "static/css/main.0f480728.chunk.css.map": "/Reset_Password-Page/static/css/main.0f480728.chunk.css.map",
     "static/js/2.25e85b86.chunk.js.LICENSE.txt": "/Reset_Password-Page/static/js/2.25e85b86.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.cd04feef.js",
     "static/js/2.25e85b86.chunk.js",
-    "static/css/main.da68b084.chunk.css",
+    "static/css/main.0f480728.chunk.css",
     "static/js/main.95a6f2bd.chunk.js"
   ]
 }
