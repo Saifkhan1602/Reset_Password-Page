@@ -18,7 +18,7 @@ const FrgtPswrd=()=>{
                </div>
                <div className="mail">
                    <label for="email">Email:</label>
-                   <div className="input"><span><i class="far fa-envelope"></i></span><input type="email" name="email" id="email" placeholder="Enter your email address" required/></div>
+                   <div className="input"><span className="envelope"><i class="far fa-envelope"></i></span><input type="email" name="email" id="email" placeholder="Enter your email address" required/></div>
                    <div className="btn"><button>Reset Password</button></div>
                </div>
                <div className="prvcy">

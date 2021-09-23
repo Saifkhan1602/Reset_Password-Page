@@ -77,16 +77,22 @@ body{
   align-items: center;
 }
 .input input{
-  font-size: 18px;
+  font-size: 14px;
   border-radius: 0 4px 4px 0;
   outline: none;
   border: 1px solid #ccc;
-  padding: 5px;
+  padding: 6px 12px;
+}
+.envelope{
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 .fa-envelope{
-  font-size: 17px;
-  padding: 7px 11px;
+  font-size: 15px;
+  padding: 7px 12px;
   border: 1px solid #ccc;
+  border-right: 0;
   background-color: #fff;
   color: #0093dd;
   border-radius: 4px 0 0 4px;
@@ -172,7 +178,7 @@ body{
     align-items: center;
   }
   .input input{
-    font-size: 12px;
+    font-size: 11px;
     border-radius: 0 3px 3px 0;
     outline: none;
     border: 1px solid #ccc;
@@ -180,10 +186,7 @@ body{
   }
   .fa-envelope{
     font-size: 10px;
-    padding: 5px 6px;
-    border: 1px solid #ccc;
-    background-color: #fff;
-    color: #0093dd;
+    padding: 4px 5px;
     border-radius: 3px 0 0 3px;
   }
   .btn button{
@@ -279,14 +282,11 @@ body{
     border-radius: 0 4px 4px 0;
     outline: none;
     border: 1px solid #ccc;
-    padding: 4px;
+    padding: 3px;
   }
   .fa-envelope{
     font-size: 14px;
-    padding: 6px;
-    border: 1px solid #ccc;
-    background-color: #fff;
-    color: #0093dd;
+    padding: 5px;
     border-radius: 4px 0 0 4px;
   }
   .btn button{
@@ -387,9 +387,6 @@ body{
   .fa-envelope{
     font-size: 18px;
     padding: 6px 8px;
-    border: 1px solid #ccc;
-    background-color: #fff;
-    color: #0093dd;
     border-radius: 4px 0 0 4px;
   }
   .btn button{
